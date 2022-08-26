@@ -1,5 +1,5 @@
 
-
+		SSCONN=[];
 		async function getSheetData(URL_API, SheetName,SaveAs,callBack){
 
 			const information = [{
