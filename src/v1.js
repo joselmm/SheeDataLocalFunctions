@@ -123,7 +123,7 @@
                     }
 				if(callBack)
                     {
-                        callBack(ArrayRows)
+                        callBack(selectedRows)
                     };
 
 				console.log(selectedRows)
